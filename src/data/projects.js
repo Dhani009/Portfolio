@@ -9,7 +9,7 @@ const projects = [
     description:
       "Aplikasi manajemen pasien Tuberkulosis berbasis React yang memiliki Dashboard, Authentication, Data Pasien, serta integrasi REST API.",
 
-    image: "/projects/mantoux.png",
+    image:`${import.meta.env.BASE_URL}projects/mantoux.png`,
 
     technologies: [
       "React",
@@ -18,7 +18,7 @@ const projects = [
       "REST API",
     ],
 
-    github: "https://github.com/Dhani009",
+    github: "https://github.com/Dhani009/mantoux_app",
 
     demo: "#",
 
@@ -35,7 +35,7 @@ const projects = [
     description:
       "Website portfolio modern menggunakan React, Framer Motion, dan Tailwind CSS dengan animasi interaktif.",
 
-    image: "/projects/portfolio.png",
+    image:`${import.meta.env.BASE_URL}projects/portfolio.png`,
 
     technologies: [
       "React",
@@ -43,7 +43,7 @@ const projects = [
       "Tailwind CSS",
     ],
 
-    github: "https://github.com/Dhani009",
+    github: "https://github.com/Dhani009/Portfolio",
 
     demo: "#",
 
@@ -60,7 +60,7 @@ const projects = [
     description:
       "Game edukasi Android berbasis Unity dengan Voice Recognition untuk membantu pembelajaran bahasa Jawa.",
 
-    image: "/projects/kebo.png",
+    image: `${import.meta.env.BASE_URL}projects/kebo.png`,
 
     technologies: [
       "Unity",
@@ -68,7 +68,7 @@ const projects = [
       "Android",
     ],
 
-    github: "#",
+    github: "https://github.com/Dhani009/kebo_blayon",
 
     demo: "#",
 
@@ -85,7 +85,7 @@ const projects = [
     description:
       "Website CRUD menggunakan React dan REST API untuk mengelola data mahasiswa.",
 
-    image: "/projects/crud.png",
+    image: `${import.meta.env.BASE_URL}projects/crud.png`,
 
     technologies: [
       "React",

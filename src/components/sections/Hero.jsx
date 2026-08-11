@@ -96,6 +96,7 @@ export default function Hero() {
             <motion.a
               whileHover={{ scale: 1.05 }}
               href={profileData.cv}
+              download="CV_ATS_Ahmad_Dhani.pdf"
               className="px-8 py-4 rounded-full bg-blue-600 text-white font-semibold flex items-center gap-3 hover:bg-blue-700 transition"
             >
               <FaDownload />

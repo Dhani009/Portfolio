@@ -56,7 +56,7 @@ export default function Navbar() {
           href="#hero"
           className="text-2xl font-black text-white"
         >
-          Ahmad<span className="text-blue-500">.</span>
+          Ahmad<span className="text-blue-500">Dhani</span>
         </a>
 
         <nav className="hidden md:flex gap-10">

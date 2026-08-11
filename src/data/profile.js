@@ -8,7 +8,7 @@ const profileData = {
   description:
     "Lulusan S1 Teknik Informatika yang memiliki pengalaman di bidang Frontend Development, Unity Game Development, IT Support, serta Administrasi Pemerintahan.",
 
-  cv: "/cv/CV_Ahmad_Dhani.pdf",
+  cv: "/cv/CV_ATS_Ahmad_Dhani.pdf",
   email: "Ahmadino16@gmail.com",
 
 github: "https://github.com/Dhani009",

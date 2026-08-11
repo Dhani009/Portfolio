@@ -88,12 +88,12 @@ export default function Contact() {
                   </p>
 
                   <a
-                    href="https://wa.me/628123456789"
+                    href="https://wa.me/6285799566378"
                     target="_blank"
                     rel="noreferrer"
                     className="hover:text-green-400"
                   >
-                    +62 85-799-566-789
+                    +62 85-799-566-378
                   </a>
                 </div>
 
@@ -173,7 +173,7 @@ export default function Contact() {
             initial={{ opacity: 0, x: 60 }}
             whileInView={{ opacity: 1, x: 0 }}
             viewport={{ once: true }}
-            action="mailto:emailkamu@gmail.com"
+            action="mailto:ahmadino16@gmail.com"
             method="POST"
             encType="text/plain"
             className="bg-slate-900 rounded-3xl p-10 border border-slate-800 space-y-6"
